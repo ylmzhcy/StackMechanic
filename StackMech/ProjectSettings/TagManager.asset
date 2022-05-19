@@ -5,6 +5,8 @@ TagManager:
   serializedVersion: 2
   tags:
   - Money
+  - Build
+  - Shop
   layers:
   - Default
   - TransparentFX

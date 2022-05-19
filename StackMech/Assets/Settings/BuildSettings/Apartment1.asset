@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9994af20deaa1904e9a2710601ad4e60, type: 3}
+  m_Name: Apartment1
+  m_EditorClassIdentifier: 
+  _buildName: Apartment 1
+  _buildPrice: 4000
+  _buildEarnMoneyCount: 50
+  _buildEarnMoneySecond: 5
+  _isBought: 0
+  _givedMoney: 0
+  _buildMaterial: {fileID: 2100000, guid: d23096b602d490240b9a19b9aa954713, type: 2}

@@ -9,7 +9,7 @@ public class scFollowCam : MonoBehaviour
 
     [SerializeField]
     float smoothSpeed = 2f;
-    Vector3 _followOffset = new Vector3(0, 15, -18);
+    Vector3 _followOffset = new Vector3(0, 15, -25);
 
     void LateUpdate()
     {
