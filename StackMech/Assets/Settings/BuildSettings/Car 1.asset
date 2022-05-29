@@ -16,6 +16,6 @@ MonoBehaviour:
   _buildPrice: 2000
   _buildEarnMoneyCount: 30
   _buildEarnMoneySecond: 3
-  _isBought: 0
-  _givedMoney: 0
+  _isBought: 1
+  _givedMoney: 2000
   _buildMaterial: {fileID: 2100000, guid: 1aced98f596532c46a250320fb39333a, type: 2}
